@@ -49,3 +49,7 @@ heads product management at IBM and is responsible for the Cloud Pak for Data pl
 **Deepak Rangarao**
 leads WW Technical Sales at IBM and is responsible for the Cloud Pak for Data platform. He has broad cross-industry experience in the data warehousing and analytics space, building analytic applications at large organizations and technical presales, both with start-ups and large enterprise software vendors. Deepak has co-authored several books on topics such as OLAP analytics, change data capture, data warehousing, and object storage and is a regular speaker at technical conferences. He is a certified technical specialist in Red Hat OpenShift, Apache Spark, Microsoft SQL Server, and web development technologies.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800562127">https://packt.link/free-ebook/9781800562127 </a> </p>
